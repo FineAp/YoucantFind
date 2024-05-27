@@ -1,5 +1,4 @@
 # You cant Find
-'You cant Find' is my  fifth game made with unity (pc)
 
 Hello!
 
